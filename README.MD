@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm MJ Hesari</h1>
 <h3 align="center">A Next Js frontend developer from Iran</h3>
-<img align="right" width="400" src="https://s34.picofile.com/file/8486200676/971.jpg"/>
+<img align="right" width="400" src="https://s34.picofile.com/file/8486200692/1728816602274.jpg"/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mjhesari" alt="mjhesari" /></a> </p>
 
 - 🔭 I’m currently working on **WebApps**
@@ -26,4 +26,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mjhesari&show_icons=true&locale=en" alt="mjhesari" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mjhesari&" alt="mjhesari" /></p>
