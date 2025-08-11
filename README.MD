@@ -1,8 +1,9 @@
-<div style="text-align: center; font-size: 800px;">
+<div style="text-align: center; font-size: 800px; font-weight: 800;">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Pacifico&pause=1000&width=435&lines=Hi+There+%F0%9F%91%8B;I'm+Mj-Hesari" alt="Typing SVG" />
   </a>
 </div>
+
 <img align="center" src="https://s34.picofile.com/file/8486200692/1728816602274.jpg"/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mjhesari" alt="mjhesari" /></a> </p>
