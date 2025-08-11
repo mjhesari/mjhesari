@@ -18,9 +18,9 @@
 
 👨‍💻 All of my projects are available at [https://mj-hesari.netlify.app](https://mj-hesari.netlify.app)
 
-🌱 I’m currently learning **Advanced Next.js & Web Performance Optimization**
-
 💬 Ask me about **React, TypeScript, Next.js, TailwindCSS, HeroUI**
+
+🌱 I’m currently learning **Advanced Next.js & Web Performance Optimization**
 
 🎯 My goal: **Turning complex ideas into simple, scalable, and beautiful products**
 
