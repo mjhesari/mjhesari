@@ -1,15 +1,15 @@
 <div align="center" ><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&pause=1000&width=435&lines=Hi+There+%F0%9F%91%8B;I'm+Mj-Hesari" alt="Typing SVG" /></div>
 <div align="left">
 
-🔭 I’m currently working on **WebApps**
+🚀 I’m currently working on **Modern Web Applications & PWAs**
 
-🌱 I’m currently learning **Next js**
+🌱 I’m currently learning **Advanced Next.js & Web Performance Optimization**
 
-👨‍💻 All of my projects are available at [https://mj-hesari.netlify.app](https://mj-hesari.netlify.app)**
+👨‍💻 All of my projects are available at [https://mj-hesari.netlify.app](https://mj-hesari.netlify.app)
 
-💬 Ask me about **raect,ts,nextjs,heroui**
+💬 Ask me about **React, TypeScript, Next.js, TailwindCSS, HeroUI**
 
-📫 How to reach me **javadhe3ari@gmail.com**
+🎯 My goal: **Turning complex ideas into simple, scalable, and beautiful products**
 
  </div>
 
