@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning **Next js**
 
-👨‍💻 All of my projects are available at [https://mj-hesari.netlify.app](https://mj-hesari.netlify.app)
+👨‍💻 All of my projects are available at [https://mj-hesari.netlify.app](https://mj-hesari.netlify.app)**
 
 💬 Ask me about **raect,ts,nextjs,heroui**
 
