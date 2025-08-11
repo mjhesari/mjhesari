@@ -8,6 +8,8 @@
 <br/>
 
 🛠 With Next.js ⚛ & TypeScript 📜
+<br/>
+
 </div>
 
 <div align="left">
