@@ -13,7 +13,9 @@
 
  </div>
 
-<h3 align="center">Connect with me</h3>
+<h3 align="center">🌟 Connect with me 🤝</h3>
+<br/>
+
 <div align="center"> 
   <a href="mailto:javadhe3ari@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
