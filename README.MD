@@ -1,8 +1,4 @@
-<div style="text-align: center; font-size: 800px; font-weight: 800;">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Pacifico&pause=1000&width=435&lines=Hi+There+%F0%9F%91%8B;I'm+Mj-Hesari" alt="Typing SVG" />
-  </a>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=38&pause=1000&width=435&lines=Hi+There+%F0%9F%91%8B;I'm+Mj-Hesari)](https://git.io/typing-svg)
 
 <img align="center" src="https://s34.picofile.com/file/8486200692/1728816602274.jpg"/>
 
