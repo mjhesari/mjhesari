@@ -2,8 +2,12 @@
 <div align="center">
 <br/>
 💡 An innovative **web developer** from Iran 🇮🇷**
-🚀 Crafting **scalable** ⚡ & **beautiful** 🎨 web experiences**
-🛠 With **Next.js** ⚛ & **TypeScript** 📜**
+<br/>
+
+🚀 Crafting scalable ⚡ & beautiful🎨 web experiences
+<br/>
+
+🛠 With Next.js ⚛ & TypeScript 📜
 </div>
 
 <div align="left">
