@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm MJ Hesari</h1>
-<h3 align="center">A Next Js frontend developer from Iran</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&pause=1000&width=435&lines=Hi+There+%F0%9F%91%8B;I'm+Mj-Hesari)](https://git.io/typing-svg)<h3 align="center">A Next Js frontend developer from Iran</h3>
 <img align="center" src="https://s34.picofile.com/file/8486200692/1728816602274.jpg"/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mjhesari" alt="mjhesari" /></a> </p>
