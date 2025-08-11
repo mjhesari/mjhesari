@@ -1,4 +1,4 @@
-<h1 align="center" ><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&pause=1000&width=435&lines=Hi+There+%F0%9F%91%8B;I'm+Mj-Hesari" alt="Typing SVG" /></h1>
+<div align="center" ><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&pause=1000&width=435&lines=Hi+There+%F0%9F%91%8B;I'm+Mj-Hesari" alt="Typing SVG" /></div>
 <div align="left">
 
 🔭 I’m currently working on **WebApps**
