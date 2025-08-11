@@ -3,7 +3,7 @@
 
 <div align="center">
 <br/>
-💡 An innovative "Web Developer" from Iran 🇮🇷**
+💡 An innovative "Web Developer" from Iran 🇮🇷
 <br/>
 🚀 Crafting scalable ⚡ & beautiful🎨 web experiences
 <br/>
