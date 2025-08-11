@@ -33,7 +33,7 @@
     
 
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
