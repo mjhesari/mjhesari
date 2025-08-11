@@ -12,6 +12,7 @@
 </div>
 
 <div align="left">
+<h2 align="center"></h2>
 
 🚀 I’m currently working on **Modern Web Applications & PWAs**
 
