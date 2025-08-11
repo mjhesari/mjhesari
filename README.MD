@@ -28,7 +28,7 @@
   </a>
   <a href="https://instagram.com/hesari.dev" target="_blank">
      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
+  </a> height="300"
   <a href="https://t.me/Mjhe3ari" target="_blank">
      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
@@ -46,7 +46,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width="400" src="https://github-readme-stats-salesp07.vercel.app/api?username=mjhesari&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width="400" src="https://github-readme-stats-salesp07.vercel.app/api?username=mjhesari&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=2" alt="readme stats" />
   <img width="355" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mjhesari&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=2&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 
 </div>
