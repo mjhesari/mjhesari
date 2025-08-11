@@ -16,9 +16,9 @@
 
 🚀 I’m currently working on **Modern Web Applications & PWAs**
 
-🌱 I’m currently learning **Advanced Next.js & Web Performance Optimization**
-
 👨‍💻 All of my projects are available at [https://mj-hesari.netlify.app](https://mj-hesari.netlify.app)
+
+🌱 I’m currently learning **Advanced Next.js & Web Performance Optimization**
 
 💬 Ask me about **React, TypeScript, Next.js, TailwindCSS, HeroUI**
 
