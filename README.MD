@@ -36,8 +36,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,nestjs,firebase,mongodb,nextjs,postgres,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,jquery" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,nestjs,firebase,mongodb,nextjs,postgres" /><br>
 </div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mjhesari&show_icons=true&locale=en&layout=compact" alt="mjhesari" /></p>
 
