@@ -17,7 +17,7 @@
 
 🚀 I’m currently working on **Modern Web Applications & PWAs**
 
-👨‍💻 All of my projects are available at [https://mj-hesari.netlify.app](https://mj-hesari.netlify.app)
+👨‍💻 All of my projects are available at [https://mj-hesari.ir](https://mj-hesari.ir)
 
 💬 Ask me about **React, TypeScript, Next.js, TailwindCSS, HeroUI**
 
@@ -31,7 +31,7 @@
 <br/>
 
 <div align="center"> 
-  <a href="mailto:javadhe3ari@gmail.com">
+  <a href="mailto:hesarimj@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/mj-hesari" target="_blank">
