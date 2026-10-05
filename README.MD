@@ -53,9 +53,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,figma,framer" /><br>
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs" /><br>
-    <img src="https://skillicons.dev/icons?i=firebase,nodejs,postgres" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,figma,git" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,redux" /><br>
+    <img src="https://skillicons.dev/icons?i=firebase,nodejs,postgres,redis,docker,nginx" />
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
