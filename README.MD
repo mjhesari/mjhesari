@@ -54,7 +54,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,jquery" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,nestjs,firebase,mongodb,nextjs,postgres" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,firebase,nextjs,postgres" /><br>
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
