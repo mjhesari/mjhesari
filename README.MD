@@ -78,8 +78,8 @@ Focused on **clean code, consistent architecture, and efficient workflows.**
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,redux,framer&theme=dark" />
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,mongodb,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,redux,framer&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=nestjs,express,postgres,mongodb,firebase&theme=dark" />
 <img src="https://skillicons.dev/icons?i=docker,git,github,cloudflare,vercel&theme=dark" />
 
 </div>
