@@ -26,7 +26,7 @@
 
 ```tsx
 // mj-hesari.tsx
-export default function fullstackDeveloper() {
+export default function Profile() {
   return (
     <Profile
       name="MJ Hesari"
