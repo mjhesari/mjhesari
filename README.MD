@@ -86,14 +86,14 @@ Focused on **clean code, consistent architecture, and efficient workflows.**
 
 | Layer | Technology | Level | Experience |
 |---|---|---|---|
-| **Frontend** | Next.js (App Router · SSR · SEO · ISR) | ![](https://img.shields.io/badge/Expert-4c8dff?style=flat-square) | 4+ yrs |
-| | React (Hooks · Performance · Reusable Components) | ![](https://img.shields.io/badge/Expert-4c8dff?style=flat-square) | 4+ yrs |
-| | TypeScript (Strict Mode · Generics · Type Safety) | ![](https://img.shields.io/badge/Expert-4c8dff?style=flat-square) | 4+ yrs |
-| | Tailwind · Redux (UI state only) · Framer Motion | ![](https://img.shields.io/badge/Advanced-1b3a7a?style=flat-square) | 2–3+ yrs |
-| **Backend** | Node.js (REST · Event Loop · Streams) | ![](https://img.shields.io/badge/Expert-4c8dff?style=flat-square) | 4+ yrs |
-| | NestJS · Express | ![](https://img.shields.io/badge/Advanced-1b3a7a?style=flat-square) | 2–3+ yrs |
-| **Database** | PostgreSQL · MongoDB · Firebase | ![](https://img.shields.io/badge/Advanced-1b3a7a?style=flat-square) | 2–3+ yrs |
-| **DevOps** | Git (Expert) · GitHub · Docker · Cloudflare · Vercel | ![](https://img.shields.io/badge/Advanced-1b3a7a?style=flat-square) | 2–4+ yrs |
+| **Frontend** | Next.js (App Router · SSR · SEO · ISR) | ![](https://img.shields.io/badge/Expert-4c8dff?style=flat-square) | +4 yrs |
+| | React (Hooks · Performance · Reusable Components) | ![](https://img.shields.io/badge/Expert-4c8dff?style=flat-square) | +4 yrs |
+| | TypeScript (Strict Mode · Generics · Type Safety) | ![](https://img.shields.io/badge/Expert-4c8dff?style=flat-square) | +4 yrs |
+| | Tailwind · Redux (UI state only) · Framer Motion | ![](https://img.shields.io/badge/Advanced-1b3a7a?style=flat-square) | +2–3 yrs |
+| **Backend** | Node.js (REST · Event Loop · Streams) | ![](https://img.shields.io/badge/Expert-4c8dff?style=flat-square) | +4 yrs |
+| | NestJS · Express | ![](https://img.shields.io/badge/Advanced-1b3a7a?style=flat-square) | +2–3 yrs |
+| **Database** | PostgreSQL · MongoDB · Firebase | ![](https://img.shields.io/badge/Advanced-1b3a7a?style=flat-square) | +2–3 yrs |
+| **DevOps** | Git (Expert) · GitHub · Docker · Cloudflare · Vercel | ![](https://img.shields.io/badge/Advanced-1b3a7a?style=flat-square) | +2–4 yrs |
 
 ---
 
