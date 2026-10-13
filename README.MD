@@ -54,8 +54,8 @@ Focused on **clean code, consistent architecture, and efficient workflows.**
 
 <table>
 <tr>
-<td align="center"><b>4+</b><br/><sub>Years experience</sub></td>
-<td align="center"><b>20+</b><br/><sub>Projects</sub></td>
+<td align="center"><b>+4</b><br/><sub>Years experience</sub></td>
+<td align="center"><b>+20</b><br/><sub>Projects</sub></td>
 <td align="center"><b>Next.js</b><br/><sub>Focus</sub></td>
 <td align="center"><b>SEO · PWA</b><br/><sub>Specialty</sub></td>
 </tr>
