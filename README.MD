@@ -26,7 +26,7 @@
 
 ```tsx
 // mj-hesari.tsx
-export default function Profile() {
+export default function Portfolio() {
   return (
     <Profile
       name="MJ Hesari"
