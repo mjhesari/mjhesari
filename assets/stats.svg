@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 236" width="1200" height="236" role="img">
+<defs>
+  <linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#16264f"/><stop offset="1" stop-color="#0b1020"/></linearGradient>
+  <linearGradient id="gloss" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity="0.10"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  <linearGradient id="val" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#8fb6ff"/></linearGradient>
+  <filter id="blur" x="-30%" y="-200%" width="160%" height="500%"><feGaussianBlur stdDeviation="7"/></filter>
+</defs>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -9;0 0" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1" dur="4.4s" begin="0s" repeatCount="indefinite"/>
+  <ellipse cx="177" cy="212" rx="105" ry="9" fill="#4c8dff" opacity="0.22" filter="url(#blur)"/>
+  <g transform="translate(42 50) skewY(-4)">
+    <rect x="14" y="14" width="250" height="128" rx="18" fill="rgb(13,22,52)"/><rect x="13" y="13" width="250" height="128" rx="18" fill="rgb(14,24,57)"/><rect x="12" y="12" width="250" height="128" rx="18" fill="rgb(15,27,62)"/><rect x="11" y="11" width="250" height="128" rx="18" fill="rgb(16,29,67)"/><rect x="10" y="10" width="250" height="128" rx="18" fill="rgb(17,32,72)"/><rect x="9" y="9" width="250" height="128" rx="18" fill="rgb(18,35,77)"/><rect x="8" y="8" width="250" height="128" rx="18" fill="rgb(19,37,82)"/><rect x="7" y="7" width="250" height="128" rx="18" fill="rgb(20,40,87)"/><rect x="6" y="6" width="250" height="128" rx="18" fill="rgb(21,42,92)"/><rect x="5" y="5" width="250" height="128" rx="18" fill="rgb(22,45,97)"/><rect x="4" y="4" width="250" height="128" rx="18" fill="rgb(23,48,102)"/><rect x="3" y="3" width="250" height="128" rx="18" fill="rgb(24,50,107)"/><rect x="2" y="2" width="250" height="128" rx="18" fill="rgb(25,53,112)"/><rect x="1" y="1" width="250" height="128" rx="18" fill="rgb(26,55,117)"/>
+    <rect width="250" height="128" rx="18" fill="url(#card)" stroke="#4c8dff" stroke-opacity="0.7" stroke-width="1.5"/>
+    <rect x="1.5" y="1.5" width="247" height="64" rx="17" fill="url(#gloss)"/>
+    <text x="125" y="68" text-anchor="middle" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="46" font-weight="900" fill="url(#val)">+4</text>
+    <text x="125" y="100" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" fill="#a9b8d8" letter-spacing="1.2">YEARS EXPERIENCE</text>
+  </g></g>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -9;0 0" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1" dur="4.9s" begin="0.45s" repeatCount="indefinite"/>
+  <ellipse cx="467" cy="212" rx="105" ry="9" fill="#4c8dff" opacity="0.22" filter="url(#blur)"/>
+  <g transform="translate(332 50) skewY(-4)">
+    <rect x="14" y="14" width="250" height="128" rx="18" fill="rgb(13,22,52)"/><rect x="13" y="13" width="250" height="128" rx="18" fill="rgb(14,24,57)"/><rect x="12" y="12" width="250" height="128" rx="18" fill="rgb(15,27,62)"/><rect x="11" y="11" width="250" height="128" rx="18" fill="rgb(16,29,67)"/><rect x="10" y="10" width="250" height="128" rx="18" fill="rgb(17,32,72)"/><rect x="9" y="9" width="250" height="128" rx="18" fill="rgb(18,35,77)"/><rect x="8" y="8" width="250" height="128" rx="18" fill="rgb(19,37,82)"/><rect x="7" y="7" width="250" height="128" rx="18" fill="rgb(20,40,87)"/><rect x="6" y="6" width="250" height="128" rx="18" fill="rgb(21,42,92)"/><rect x="5" y="5" width="250" height="128" rx="18" fill="rgb(22,45,97)"/><rect x="4" y="4" width="250" height="128" rx="18" fill="rgb(23,48,102)"/><rect x="3" y="3" width="250" height="128" rx="18" fill="rgb(24,50,107)"/><rect x="2" y="2" width="250" height="128" rx="18" fill="rgb(25,53,112)"/><rect x="1" y="1" width="250" height="128" rx="18" fill="rgb(26,55,117)"/>
+    <rect width="250" height="128" rx="18" fill="url(#card)" stroke="#4c8dff" stroke-opacity="0.7" stroke-width="1.5"/>
+    <rect x="1.5" y="1.5" width="247" height="64" rx="17" fill="url(#gloss)"/>
+    <text x="125" y="68" text-anchor="middle" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="46" font-weight="900" fill="url(#val)">+20</text>
+    <text x="125" y="100" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" fill="#a9b8d8" letter-spacing="1.2">PROJECTS SHIPPED</text>
+  </g></g>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -9;0 0" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1" dur="5.4s" begin="0.9s" repeatCount="indefinite"/>
+  <ellipse cx="757" cy="212" rx="105" ry="9" fill="#4c8dff" opacity="0.22" filter="url(#blur)"/>
+  <g transform="translate(622 50) skewY(-4)">
+    <rect x="14" y="14" width="250" height="128" rx="18" fill="rgb(13,22,52)"/><rect x="13" y="13" width="250" height="128" rx="18" fill="rgb(14,24,57)"/><rect x="12" y="12" width="250" height="128" rx="18" fill="rgb(15,27,62)"/><rect x="11" y="11" width="250" height="128" rx="18" fill="rgb(16,29,67)"/><rect x="10" y="10" width="250" height="128" rx="18" fill="rgb(17,32,72)"/><rect x="9" y="9" width="250" height="128" rx="18" fill="rgb(18,35,77)"/><rect x="8" y="8" width="250" height="128" rx="18" fill="rgb(19,37,82)"/><rect x="7" y="7" width="250" height="128" rx="18" fill="rgb(20,40,87)"/><rect x="6" y="6" width="250" height="128" rx="18" fill="rgb(21,42,92)"/><rect x="5" y="5" width="250" height="128" rx="18" fill="rgb(22,45,97)"/><rect x="4" y="4" width="250" height="128" rx="18" fill="rgb(23,48,102)"/><rect x="3" y="3" width="250" height="128" rx="18" fill="rgb(24,50,107)"/><rect x="2" y="2" width="250" height="128" rx="18" fill="rgb(25,53,112)"/><rect x="1" y="1" width="250" height="128" rx="18" fill="rgb(26,55,117)"/>
+    <rect width="250" height="128" rx="18" fill="url(#card)" stroke="#4c8dff" stroke-opacity="0.7" stroke-width="1.5"/>
+    <rect x="1.5" y="1.5" width="247" height="64" rx="17" fill="url(#gloss)"/>
+    <text x="125" y="68" text-anchor="middle" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="36" font-weight="900" fill="url(#val)">Next.js</text>
+    <text x="125" y="100" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" fill="#a9b8d8" letter-spacing="1.2">CORE FOCUS</text>
+  </g></g>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -9;0 0" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1" dur="5.9s" begin="1.35s" repeatCount="indefinite"/>
+  <ellipse cx="1047" cy="212" rx="105" ry="9" fill="#4c8dff" opacity="0.22" filter="url(#blur)"/>
+  <g transform="translate(912 50) skewY(-4)">
+    <rect x="14" y="14" width="250" height="128" rx="18" fill="rgb(13,22,52)"/><rect x="13" y="13" width="250" height="128" rx="18" fill="rgb(14,24,57)"/><rect x="12" y="12" width="250" height="128" rx="18" fill="rgb(15,27,62)"/><rect x="11" y="11" width="250" height="128" rx="18" fill="rgb(16,29,67)"/><rect x="10" y="10" width="250" height="128" rx="18" fill="rgb(17,32,72)"/><rect x="9" y="9" width="250" height="128" rx="18" fill="rgb(18,35,77)"/><rect x="8" y="8" width="250" height="128" rx="18" fill="rgb(19,37,82)"/><rect x="7" y="7" width="250" height="128" rx="18" fill="rgb(20,40,87)"/><rect x="6" y="6" width="250" height="128" rx="18" fill="rgb(21,42,92)"/><rect x="5" y="5" width="250" height="128" rx="18" fill="rgb(22,45,97)"/><rect x="4" y="4" width="250" height="128" rx="18" fill="rgb(23,48,102)"/><rect x="3" y="3" width="250" height="128" rx="18" fill="rgb(24,50,107)"/><rect x="2" y="2" width="250" height="128" rx="18" fill="rgb(25,53,112)"/><rect x="1" y="1" width="250" height="128" rx="18" fill="rgb(26,55,117)"/>
+    <rect width="250" height="128" rx="18" fill="url(#card)" stroke="#4c8dff" stroke-opacity="0.7" stroke-width="1.5"/>
+    <rect x="1.5" y="1.5" width="247" height="64" rx="17" fill="url(#gloss)"/>
+    <text x="125" y="68" text-anchor="middle" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="36" font-weight="900" fill="url(#val)">SEO · PWA</text>
+    <text x="125" y="100" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" fill="#a9b8d8" letter-spacing="1.2">SPECIALTY</text>
+  </g></g>
+</svg>

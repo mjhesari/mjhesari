@@ -1,7 +1,7 @@
 <!-- ===================== HERO ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,55:1b3a7a,100:4c8dff&height=230&section=header&text=MJ%20Hesari&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Next.js%20%C2%B7%20TypeScript&descSize=18&descAlignY=60&animation=fadeIn" alt="MJ Hesari" width="100%" />
+<a href="https://mj-hesari.ir"><img src="./assets/hero.svg" alt="MJ Hesari — Full Stack Developer · Next.js · TypeScript" width="100%" /></a>
 
 <a href="https://mj-hesari.ir">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=4C8DFF&center=true&vCenter=true&width=720&lines=Scalable+%7C+High-performance+digital+products;Next.js+%C2%B7+TypeScript+%C2%B7+SSR+%C2%B7+PWA;Clean+code.+Consistent+architecture.+Efficient+workflows." alt="typing" />
@@ -24,23 +24,8 @@
 
 <br/>
 
-```tsx
-// mj-hesari.tsx
-export default function Portfolio() {
-  return (
-    <Profile
-      name="MJ Hesari"
-      role="Full Stack Developer"
-      stack={["React", "Next.js", "TS", "Docker"]}
-    />
-  );
-}
-// ➜ ▍
-```
-
----
-
-## 👨‍💻 About Me
+<!-- ===================== ABOUT ===================== -->
+<img src="./assets/h-about.svg" alt="01 · About Me" width="100%" />
 
 <table>
 <tr>
@@ -52,14 +37,18 @@ Skilled in building scalable, maintainable web applications, improving performan
 
 Focused on **clean code, consistent architecture, and efficient workflows.**
 
-<table>
-<tr>
-<td align="center"><b>+4</b><br/><sub>Years experience</sub></td>
-<td align="center"><b>+20</b><br/><sub>Projects</sub></td>
-<td align="center"><b>Next.js</b><br/><sub>Focus</sub></td>
-<td align="center"><b>SEO · PWA</b><br/><sub>Specialty</sub></td>
-</tr>
-</table>
+```tsx
+// mj-hesari.tsx
+export default function Portfolio() {
+  return (
+    <Profile
+      name="MJ Hesari"
+      role="Full Stack Developer"
+      stack={["React", "Next.js", "TS", "Docker"]}
+    />
+  );
+}
+```
 
 </td>
 <td width="38%" align="center" valign="middle">
@@ -70,19 +59,24 @@ Focused on **clean code, consistent architecture, and efficient workflows.**
 </tr>
 </table>
 
----
+<img src="./assets/stats.svg" alt="+4 years experience · +20 projects · Next.js focus · SEO and PWA specialty" width="100%" />
 
-## 🧰 Skills
+<br/>
 
-> **Core Technologies** — what I actually build production systems with.
+<!-- ===================== SKILLS ===================== -->
+<img src="./assets/h-skills.svg" alt="02 · Skills" width="100%" />
+
+<img src="./assets/stack.svg" alt="Stack: Frontend (Next.js, React, TypeScript, Tailwind, Redux, Framer Motion), Backend (Node.js, NestJS, Express), Database (PostgreSQL, MongoDB, Firebase), DevOps (Git, GitHub, Docker, Cloudflare, Vercel)" width="100%" />
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,redux&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=nestjs,express,postgres,mongodb,firebase&theme=dark" />
-<img src="https://skillicons.dev/icons?i=docker,git,github,cloudflare&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,redux,nestjs,express,postgres,mongodb,firebase,docker,git,github,cloudflare&theme=dark&perline=14" />
 
 </div>
+
+<details>
+<summary><b>Full breakdown — technology · level · experience</b></summary>
+<br/>
 
 | Layer | Technology | Level | Experience |
 |---|---|---|---|
@@ -95,11 +89,12 @@ Focused on **clean code, consistent architecture, and efficient workflows.**
 | **Database** | PostgreSQL · MongoDB · Firebase | ![](https://img.shields.io/badge/Advanced-1b3a7a?style=flat-square) | +2–3 yrs |
 | **DevOps** | Git (Expert) · GitHub · Docker · Cloudflare · Vercel | ![](https://img.shields.io/badge/Advanced-1b3a7a?style=flat-square) | +2–4 yrs |
 
----
+</details>
 
-## 🗓️ Experience
+<br/>
 
-> **Career Timeline** — four years building interfaces: from landing pages to leading a front-end team, now freelancing.
+<!-- ===================== EXPERIENCE ===================== -->
+<img src="./assets/h-experience.svg" alt="03 · Experience" width="100%" />
 
 | Period | Role | Highlights |
 |---|---|---|
@@ -108,11 +103,10 @@ Focused on **clean code, consistent architecture, and efficient workflows.**
 | **Aug 2024 – Jul 2025** | **Exir** · Front-end Developer (Full-time) | Front-end for business directories, exchange directories and token-based apps on Next.js + TypeScript. Modular structures across several ongoing projects. |
 | **Aug 2021 – Jan 2024** | **i3center** · Front-end Developer (Part-time) | Digital marketing & web agency. Catalog, e-commerce and landing-page projects — design/marketing requirements into responsive UIs. `HTML5` `CSS` `JavaScript` |
 
----
+<br/>
 
-## 🚀 Selected Work
-
-> **Projects** — products, interfaces and systems I've built.
+<!-- ===================== WORK ===================== -->
+<img src="./assets/h-work.svg" alt="04 · Selected Work" width="100%" />
 
 <table>
 <tr>
@@ -132,7 +126,7 @@ Modern marketplace for discovering and purchasing premium coffee brands. Modular
 </td>
 <td width="50%" valign="top">
 
-### 02 · Fastolean
+### 02 · Fastolearn
 **Learning Platform** · `PWA` `SCALABLE ARCHITECTURE`
 
 Course platform that turns long-form lessons into an offline-first, app-like experience. Progressive loading, service-worker background caching and an installable PWA shell around the player.
@@ -185,40 +179,32 @@ A Manifest V3 panel that restores client-side access to Google Flow and Google S
 </tr>
 </table>
 
----
+<br/>
 
-## ✍️ From the Articles
-
-Longer notes on how a shipped project actually works.
+<!-- ===================== ARTICLES ===================== -->
+<img src="./assets/h-articles.svg" alt="05 · From the Articles" width="100%" />
 
 - **Sep 29, 2026** — [MJ Hesari Google Flow: access for Flow and Stitch, then cinematic AI workflows](https://mj-hesari.ir/articles/google-flow)
 - **Sep 1, 2026** — [Beresta, introduced: a coffee marketplace and what it can do](https://mj-hesari.ir/articles/beresta-coffee-marketplace)
 
 👉 [All articles](https://mj-hesari.ir/articles)
 
----
+<br/>
 
-## ⚙️ From Idea to Production
+<!-- ===================== PROCESS ===================== -->
+<img src="./assets/h-process.svg" alt="06 · From Idea to Production" width="100%" />
 
-```bash
-$ process.log
+<img src="./assets/pipeline.svg" alt="Idea → Planning → Architecture → Development → Testing → Deployment → Monitoring" width="100%" />
 
-💡 Idea          → understand the problem before writing code
-📋 Planning      → break features into manageable tasks
-🏗️ Architecture  → design scalable, modular systems
-💻 Development   → reusable, maintainable code
-🧪 Testing       → performance, quality, reliability
-🚀 Deployment    → CI/CD and production release
-📊 Monitoring    → analytics, optimization, continuous improvement
+<br/>
 
-✓ build complete — Fast · Scalable · Maintainable · SEO Ready · Production Ready
-```
-
----
-
-## 📊 Building in Public
+<!-- ===================== STATS ===================== -->
+<img src="./assets/h-stats.svg" alt="07 · Building in Public" width="100%" />
 
 <div align="center">
+
+<!-- generated by .github/workflows/profile-3d.yml -->
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" width="100%" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=mjhesari&show_icons=true&hide_border=true&count_private=true&bg_color=0b1020&title_color=4c8dff&icon_color=4c8dff&text_color=c9d1d9&ring_color=4c8dff" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjhesari&layout=compact&hide_border=true&langs_count=6&bg_color=0b1020&title_color=4c8dff&text_color=c9d1d9" />
@@ -227,15 +213,12 @@ $ process.log
 
 <img src="https://streak-stats.demolab.com?user=mjhesari&hide_border=true&background=0b1020&ring=4c8dff&fire=4c8dff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=4c8dff&sideLabels=c9d1d9&dates=8b949e" />
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mjhesari&bg_color=0b1020&color=4c8dff&line=4c8dff&point=ffffff&area=true&area_color=4c8dff&hide_border=true" width="100%" />
-
 </div>
 
----
+<br/>
 
-## 🤝 Let's Build Together
+<!-- ===================== CONTACT ===================== -->
+<img src="./assets/h-contact.svg" alt="08 · Let's Build Together" width="100%" />
 
 <div align="center">
 
